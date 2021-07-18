@@ -59,8 +59,3 @@ if veri == "3" :
     print("cracklenen hash => " ,dat2)
     print("")
     print("_______________________________")
-
-
-            exit()                              
-            print("password not found")
-        
